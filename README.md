@@ -1,59 +1,53 @@
-# MySalesApp
+# 📦 Angular 17 do Zero — Daniel Schmitz
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.0.
+Este projeto foi desenvolvido acompanhando o conteúdo **“Angular 17 do Zero”** do **Daniel Schmitz**, com o objetivo de consolidar os conceitos e práticas do framework Angular na sua versão mais recente.
 
-## Development server
+## 🚀 Sobre o Projeto
 
-To start a local development server, run:
+O projeto tem como finalidade demonstrar na prática a criação de aplicações web modernas utilizando **Angular 17**, explorando desde os fundamentos até os novos recursos introduzidos nesta versão.
 
-```bash
-ng serve
-```
+É ideal para quem deseja aprender Angular de forma progressiva e profissional.
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## 🧠 Conceitos Abordados
 
-## Code scaffolding
+- ✅ Estrutura e arquitetura de projetos Angular
+- ✅ Criação e comunicação entre componentes
+- ✅ Diretivas e Pipes (incluindo personalizados)
+- ✅ Roteamento (Router) e navegação SPA
+- ✅ Serviços e Injeção de Dependência (DI)
+- ✅ Trabalhando com APIs (HttpClient)
+- ✅ Formulários reativos e baseados em template
+- ✅ Gerenciamento de estado e boas práticas
+- ✅ Novidades do Angular 17:
+  - 🔥 Deferrable Views
+  - 🔥 Control Flow Nativo (`@if`, `@for`, `@switch`)
+  - 🔥 Signals API (Reatividade simplificada)
+  - 🔥 Melhorias de desempenho, build e DX
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+## 🛠️ Tecnologias Utilizadas
 
-```bash
-ng generate component component-name
-```
+- [Angular 17](https://angular.io/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [RxJS](https://rxjs.dev/)
+- [Node.js](https://nodejs.org/) + [npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
+- HTML + CSS + SCSS
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## 💻 Como Executar
 
-```bash
-ng generate --help
-```
+### Pré-requisitos:
+- Node.js instalado
+- Angular CLI instalado globalmente
 
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
+### Instalação:
 
 ```bash
-ng e2e
-```
+# Clone o repositório
+git clone https://github.com/seu-usuario/seu-repositorio.git
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+# Acesse o diretório
+cd seu-repositorio
 
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+# Instale as dependências
+npm install
+# ou
+yarn install
