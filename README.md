@@ -13,6 +13,14 @@ Ideal para quem deseja aprender Angular de forma **progressiva e profissional**.
 
 ---
 
+## 📚 Como Estudar
+
+- 📘 [Livro “Angular 17 do Zero” – Daniel Schmitz (acesso IFPE)](https://drive.google.com/file/d/1TBI3Pb964Ze-uFh78P3wsugecHP6-x9G/view)  
+- 📗 [Angular Material — Guia de Introdução](https://material.angular.dev/guide/getting-started)  
+- 📙 [Documentação oficial do Angular](https://angular.io/docs)
+
+---
+
 ## 🧠 Conceitos Abordados
 
 - ✅ Estrutura e arquitetura de projetos Angular  
@@ -38,7 +46,9 @@ Ideal para quem deseja aprender Angular de forma **progressiva e profissional**.
 - [TypeScript](https://www.typescriptlang.org/)
 - [RxJS](https://rxjs.dev/)
 - [Node.js](https://nodejs.org/) + [npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
-- HTML, CSS, SCSS
+- [HTML (MDN)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS (MDN)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [SCSS (Sass)](https://sass-lang.com/documentation)
 
 ---
 
