@@ -1,6 +1,6 @@
 # 📦 Angular 17 do Zero — Daniel Schmitz
 
-Este projeto foi desenvolvido acompanhando o conteúdo **“Angular 17 do Zero”** do **Daniel Schmitz**, com o objetivo de consolidar os conceitos e práticas do framework Angular na sua versão mais recente.
+Este projeto foi desenvolvido acompanhando o conteúdo **“Angular 17 do Zero”** do **Daniel Schmitz**, com o objetivo de consolidar os conceitos e práticas do framework Angular na sua versão mais recente proposto pelo o professor de WEB III.
 
 ## 🚀 Sobre o Projeto
 
