@@ -51,3 +51,10 @@ cd seu-repositorio
 npm install
 # ou
 yarn install
+
+#  Inicie o pojeto com
+cd src
+ng serve
+
+#  Para mais informação acesse:
+https://drive.google.com/file/d/1TBI3Pb964Ze-uFh78P3wsugecHP6-x9G/view
