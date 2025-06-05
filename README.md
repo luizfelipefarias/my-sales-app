@@ -57,4 +57,9 @@ cd src
 ng serve
 
 #  Para mais informação acesse:
-https://drive.google.com/file/d/1TBI3Pb964Ze-uFh78P3wsugecHP6-x9G/view
+https://drive.google.com/file/d/1TBI3Pb964Ze-uFh78P3wsugecHP6-x9G/view  #-> Caso seja estudante do IFPE
+#ou
+Compre o livro
+
+# Aprenda pela documentação Oficial
+https://material.angular.dev/guide/getting-started
